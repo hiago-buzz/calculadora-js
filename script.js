@@ -1,4 +1,4 @@
-//operações
+//operadores
 
 let operadorA;
 let operadorB;
@@ -112,7 +112,7 @@ igual.onclick = function(){
 }
 
 
-//operações 
+// funções de operação 
 
 function limpar(){
     resultado.value = "";
