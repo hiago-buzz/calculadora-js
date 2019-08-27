@@ -72,3 +72,20 @@ form .linhas input:last-child{
 form .linhas input:last-child:hover{
     background-color: teal;
 }
+
+@media(min-width:425px){
+    main{
+        width: 300px;
+        height: 80vh;
+    }
+
+    form #result input{
+        width: 291px;
+    }
+    form #reset{
+        width: 144px;
+    }
+    form .linhas input{
+        width: 70px;
+    }
+}
