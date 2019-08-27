@@ -13,4 +13,4 @@
 
 ---
 
-- para testar [click aqui] {link}
+- para testar [click aqui]{https://hiago-buzz.github.io/calculadora-js/.}
