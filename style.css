@@ -57,6 +57,10 @@ form .linhas input{
     cursor: pointer;
 }
 
+form #reset{
+    width: 164px;
+}
+
 form .linhas input:hover{
     background-color: teal;
 }
