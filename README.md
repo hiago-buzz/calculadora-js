@@ -1,3 +1,5 @@
+![](/exemplo.png)
+
 # Calculadora JS
 
 - Calculadora web criada com `HTML`, `CSS` e `javascript`.
