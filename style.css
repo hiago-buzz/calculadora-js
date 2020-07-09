@@ -40,7 +40,7 @@ form h1{
 }
 
 
-form #result input{
+form #div-result input{
  width: 331px;
  height: 50px;
  margin-bottom: 1px;
@@ -79,7 +79,7 @@ form .linhas input:last-child:hover{
         height: 80vh;
     }
 
-    form #result input{
+    form #div-result input{
         width: 291px;
     }
     form #reset{
@@ -96,7 +96,7 @@ form .linhas input:last-child:hover{
         height: 80vh;
     }
 
-    form #result input{
+    form #div-result input{
         width: 291px;
     }
     form #reset{
@@ -117,7 +117,7 @@ form .linhas input:last-child:hover{
         align-items: center;
     }
 
-    form #result input{
+    form #div-result input{
         width: 291px;
     }
     form #reset{
